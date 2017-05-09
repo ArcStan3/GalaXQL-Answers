@@ -1,0 +1,4 @@
+CREATE TABLE quotes (id INTEGER PRIMARY KEY, quote TEXT NOT NULL);
+INSERT INTO quotes (quote) VALUES ("nothing ventured nothing gained");
+INSERT INTO quotes (quote) VALUES ("the journey of 1 thousand miles begins with one step");
+INSERT INTO quotes (quote) VALUES ("hi, is this papa john?");
